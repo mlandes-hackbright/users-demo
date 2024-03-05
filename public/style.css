@@ -1,3 +1,23 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+#login-form {
+    margin: 2em;
+    padding: 2em;
+    background-color: lightblue;
+}
+
+#create-account-form {
+    margin: 2em;
+    padding: 2em;
+    background-color: lightcoral;
+}
+
+#login-form section {
+    margin: 1em 0 0 0;
+}
+
+#create-account-form section {
+    margin: 1em 0 0 0;
+}
